@@ -1,0 +1,59 @@
+<ion-view view-title="GreenStop">
+    <ion-content scroll="false">
+        <div id="page-intro" class="page-intro">
+            <ion-slide-box >
+                <ion-slide>
+                    <div id="slide-intro-1" class="slide-intro">
+                        <div class="slide-intro-wrapper">
+                            <div class="info">
+                                <div class="row">
+                                    <div class="col col-80 col-offset-10">
+                                        <div class="logo">
+                                            <span>GreenStop</span>
+                                        </div>
+                                        <p>"21st Century Cannabis Experience"</p>
+                                    </div>
+                                 </div>
+                             <form class="login-form" name="loginForm">
+                            <div class="card-clear padding">
+                    <label class="item-input">
+                    <input type="email" ng-model="loginForm.email" placeholder="Email Address">
+                </label>
+                <label class="item-input">
+                    <input type="password" ng-model="loginForm.password" placeholder="Password">
+                </label>
+        <button ui-sref="app.category" class="button button-block button-balanced activated">
+            Sign In
+        </button>
+    </div>
+    </form>    
+        <button ng-click="modal.show()" class="button button-small button-outline icon-left ion-person-add button-balanced">
+        Create New Account
+        </button>
+        </div>
+    </div>
+</div>
+</ion-slide>
+<ion-slide>
+    <div id="slide-intro-2" class="slide-intro">
+        <div class="slide-intro-wrapper">
+            <div class="info">
+                <div class="row">
+                    <div class="col col-80 col-offset-10">
+                        <div class="logo">
+                            <span>Cannabis</span>
+                                        </div>
+                                        <p>Delivery - Online - Kiosk</p>
+                                        <button ui-sref="app.category" class="button-get-started button button-outline button-light">
+                                            Get Started
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </ion-slide>
+            </ion-slide-box>
+        </div>
+    </ion-content>
+</ion-view>

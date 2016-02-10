@@ -1,0 +1,412 @@
+{
+  "results": [
+    {
+      "objectId": "4l48uLhPTB",
+      "updatedAt": "2016-01-10T09:48:13.851Z",
+      "name": "Darth Vader OG Shatter",
+      "createdAt": "2016-01-07T11:01:07.982Z",
+      "imageThumb": {
+        "__type": "File",
+        "name": "tfss-558bf1cb-a005-41f0-827d-60e5a36978ef-wax1.jpg",
+        "url": "http://files.parsetfss.com/685fe89f-b24a-4c33-aeb9-15bc22f5cfd4/tfss-558bf1cb-a005-41f0-827d-60e5a36978ef-wax1.jpg"
+      },
+      "image": {
+        "__type": "File",
+        "name": "tfss-b7b18883-b275-4f8a-833d-7c309423db5b-wax1.jpg",
+        "url": "http://files.parsetfss.com/685fe89f-b24a-4c33-aeb9-15bc22f5cfd4/tfss-b7b18883-b275-4f8a-833d-7c309423db5b-wax1.jpg"
+      },
+      "section": {
+        "__type": "Pointer",
+        "className": "Category",
+        "objectId": "084xSu8EW1"
+      },
+      "quantity": "gram",
+      "price": "35",
+      "description": "wax shatter",
+      "type": "Indica",
+      "category": "concentrates",
+      "location": {
+        "__type": "GeoPoint",
+        "latitude": 33.8674443,
+        "longitude": -118.36382179999995
+      }
+    },
+    {
+      "objectId": "9xU1nKFChJ",
+      "name": "Medical 420 Salve ",
+      "createdAt": "2016-01-07T11:09:15.389Z",
+      "updatedAt": "2016-01-10T09:48:39.783Z",
+      "price": "30",
+      "description": "medical lotion n stuff",
+      "quantity": "1",
+      "section": {
+        "__type": "Pointer",
+        "className": "Category",
+        "objectId": "OICFd5YX6K"
+      },
+      "image": {
+        "__type": "File",
+        "name": "tfss-5777afc1-eb5e-42f0-9589-7db2fa8a46ba-topical1.jpg",
+        "url": "http://files.parsetfss.com/685fe89f-b24a-4c33-aeb9-15bc22f5cfd4/tfss-5777afc1-eb5e-42f0-9589-7db2fa8a46ba-topical1.jpg"
+      },
+      "imageThumb": {
+        "__type": "File",
+        "name": "tfss-bdb37a04-8d25-42f7-8fd8-678c1b021297-topical1.jpg",
+        "url": "http://files.parsetfss.com/685fe89f-b24a-4c33-aeb9-15bc22f5cfd4/tfss-bdb37a04-8d25-42f7-8fd8-678c1b021297-topical1.jpg"
+      },
+      "type": "",
+      "category": "topicals",
+      "location": {
+        "__type": "GeoPoint",
+        "latitude": 33.8674443,
+        "longitude": -118.36382545555
+      }
+    },
+    {
+      "objectId": "GbBWNAg6tr",
+      "updatedAt": "2016-01-11T00:09:20.881Z",
+      "name": "Grand Daddy Purps",
+      "createdAt": "2016-01-07T10:38:09.709Z",
+      "type": "Indica",
+      "price": "65",
+      "description": "Introduced in 2003 by Ken Estes, Granddaddy Purple (or GDP) is a famous indica cross between Purple Urkle and Big Bud. This California staple inherits a complex grape and berry aroma from its Purple Urkle parent, while Big Bud passes on its oversized, compact bud structure.",
+      "quantity": "quarter",
+      "taste": "",
+      "image": {
+        "__type": "File",
+        "name": "tfss-96f6b74b-7a19-4a0a-850c-d8f8b2ed8adf-kush2.jpg",
+        "url": "http://files.parsetfss.com/685fe89f-b24a-4c33-aeb9-15bc22f5cfd4/tfss-96f6b74b-7a19-4a0a-850c-d8f8b2ed8adf-kush2.jpg"
+      },
+      "imageThumb": {
+        "__type": "File",
+        "name": "tfss-c36c0cf2-aa30-43c4-8972-d4329ef59c8d-kush2.jpg",
+        "url": "http://files.parsetfss.com/685fe89f-b24a-4c33-aeb9-15bc22f5cfd4/tfss-c36c0cf2-aa30-43c4-8972-d4329ef59c8d-kush2.jpg"
+      },
+      "section": {
+        "__type": "Pointer",
+        "className": "Category",
+        "objectId": "7ic4fpUUee"
+      },
+      "category": "flowers",
+      "location": {
+        "__type": "GeoPoint",
+        "latitude": 33.8674443,
+        "longitude": -118.36382179999995
+      },
+      "amount": [
+        15,
+        45,
+        70,
+        130,
+        270
+      ]
+    },
+    {
+      "objectId": "GwcA9dUm2H",
+      "createdAt": "2016-01-07T11:26:18.657Z",
+      "updatedAt": "2016-01-10T09:49:01.177Z",
+      "name": "Royal Kush",
+      "type": "Indica",
+      "price": "30",
+      "description": "wax fire ",
+      "quantity": "gram",
+      "image": {
+        "__type": "File",
+        "name": "tfss-e72520d5-69ba-47f2-86a6-2004a6cdf88e-wax2.jpg",
+        "url": "http://files.parsetfss.com/685fe89f-b24a-4c33-aeb9-15bc22f5cfd4/tfss-e72520d5-69ba-47f2-86a6-2004a6cdf88e-wax2.jpg"
+      },
+      "imageThumb": {
+        "__type": "File",
+        "name": "tfss-55e24f9c-7c15-4945-846c-e0b100995a55-wax2.jpg",
+        "url": "http://files.parsetfss.com/685fe89f-b24a-4c33-aeb9-15bc22f5cfd4/tfss-55e24f9c-7c15-4945-846c-e0b100995a55-wax2.jpg"
+      },
+      "section": {
+        "__type": "Pointer",
+        "className": "Category",
+        "objectId": "084xSu8EW1"
+      },
+      "category": "concentrates",
+      "location": {
+        "__type": "GeoPoint",
+        "latitude": 33.8674443,
+        "longitude": -118.35382179999995
+      }
+    },
+    {
+      "objectId": "MTQOPDCz5T",
+      "updatedAt": "2016-01-11T00:09:50.179Z",
+      "name": "OG Kush",
+      "createdAt": "2016-01-03T22:38:13.158Z",
+      "type": "Sativa",
+      "taste": "Sour",
+      "price": "60",
+      "quantity": "quarter",
+      "description": "OG Kush makes up the genetic backbone of West Coast cannabis varieties, but in spite of its ubiquity, its genetic origins remain a mystery. Popular myth maintains that Chemdawg and Hindu Kush parented OG Kush, passing on the distinct “kush” bud structure we see in many strains today.",
+      "image": {
+        "__type": "File",
+        "name": "tfss-34c23f06-a269-412b-a80f-9716de7153b2-flowers.jpg",
+        "url": "http://files.parsetfss.com/685fe89f-b24a-4c33-aeb9-15bc22f5cfd4/tfss-34c23f06-a269-412b-a80f-9716de7153b2-flowers.jpg"
+      },
+      "imageThumb": {
+        "__type": "File",
+        "name": "tfss-8a7835dc-52fe-4ac4-b9ae-fb9f9f1f61f3-flowers.jpg",
+        "url": "http://files.parsetfss.com/685fe89f-b24a-4c33-aeb9-15bc22f5cfd4/tfss-8a7835dc-52fe-4ac4-b9ae-fb9f9f1f61f3-flowers.jpg"
+      },
+      "category": "flowers",
+      "location": {
+        "__type": "GeoPoint",
+        "latitude": 33.863321319999,
+        "longitude": -118.36382179999995
+      },
+      "section": {
+        "__type": "Pointer",
+        "className": "Category",
+        "objectId": "7ic4fpUUee"
+      },
+      "amount": [
+        12,
+        50,
+        70,
+        140,
+        270
+      ]
+    },
+    {
+      "objectId": "Y9kp71FGVu",
+      "createdAt": "2016-01-07T11:02:13.142Z",
+      "updatedAt": "2016-01-10T09:48:28.697Z",
+      "image": {
+        "__type": "File",
+        "name": "tfss-da1a5539-9a3d-488b-ac6b-bc7a1394ff4e-edible3.jpg",
+        "url": "http://files.parsetfss.com/685fe89f-b24a-4c33-aeb9-15bc22f5cfd4/tfss-da1a5539-9a3d-488b-ac6b-bc7a1394ff4e-edible3.jpg"
+      },
+      "section": {
+        "__type": "Pointer",
+        "className": "Category",
+        "objectId": "vPPZJxgK4Y"
+      },
+      "quantity": "2",
+      "description": "cookies 2 for 10",
+      "price": "10",
+      "type": "Hybrid",
+      "name": "Miss Fieldsy Cookies Pack",
+      "imageThumb": {
+        "__type": "File",
+        "name": "tfss-a621925b-6c46-4960-a3f4-fe40fc3dd62b-edible3.jpg",
+        "url": "http://files.parsetfss.com/685fe89f-b24a-4c33-aeb9-15bc22f5cfd4/tfss-a621925b-6c46-4960-a3f4-fe40fc3dd62b-edible3.jpg"
+      },
+      "category": "edibles",
+      "location": {
+        "__type": "GeoPoint",
+        "latitude": 33.8674443,
+        "longitude": -118.43638218
+      }
+    },
+    {
+      "objectId": "dwYtKhwuzF",
+      "createdAt": "2016-01-07T11:14:22.738Z",
+      "updatedAt": "2016-01-10T09:48:48.558Z",
+      "name": "Jack Herrer",
+      "type": "Sativa",
+      "price": "15",
+      "quantity": "gram",
+      "description": "Fire! with a burst of energy",
+      "section": {
+        "__type": "Pointer",
+        "className": "Category",
+        "objectId": "7ic4fpUUee"
+      },
+      "image": {
+        "__type": "File",
+        "name": "tfss-8cbe28c2-ef2f-43d9-b4a4-564da3578b9d-kush4.jpg",
+        "url": "http://files.parsetfss.com/685fe89f-b24a-4c33-aeb9-15bc22f5cfd4/tfss-8cbe28c2-ef2f-43d9-b4a4-564da3578b9d-kush4.jpg"
+      },
+      "imageThumb": {
+        "__type": "File",
+        "name": "tfss-ea5381a7-f5a8-4496-8310-44a5d9880d0d-kush4.jpg",
+        "url": "http://files.parsetfss.com/685fe89f-b24a-4c33-aeb9-15bc22f5cfd4/tfss-ea5381a7-f5a8-4496-8310-44a5d9880d0d-kush4.jpg"
+      },
+      "category": "flowers",
+      "location": {
+        "__type": "GeoPoint",
+        "latitude": 33.8674443,
+        "longitude": -118.33482179999994
+      }
+    },
+    {
+      "objectId": "eeVWyFdbw1",
+      "createdAt": "2016-01-07T10:57:49.187Z",
+      "updatedAt": "2016-01-11T00:04:33.361Z",
+      "name": "Cheeba Chews",
+      "type": "Sativa",
+      "price": "15",
+      "description": "The indica eff\u001fect is most often described as a pleasant body buzz. Indica’s are great for relaxation, stress relief, and for an overall sense of calm and serenity. Indica’s are also very effective for overall body pain relief, and often used in the treatment of insomnia.\n",
+      "quantity": "one",
+      "taste": "",
+      "image": {
+        "__type": "File",
+        "name": "tfss-1085c05c-6fe0-4bac-ad75-7b90ff9f7910-edible1.jpg",
+        "url": "http://files.parsetfss.com/685fe89f-b24a-4c33-aeb9-15bc22f5cfd4/tfss-1085c05c-6fe0-4bac-ad75-7b90ff9f7910-edible1.jpg"
+      },
+      "imageThumb": {
+        "__type": "File",
+        "name": "tfss-f176ea65-464a-494f-9698-429f04e57d6b-edible1.jpg",
+        "url": "http://files.parsetfss.com/685fe89f-b24a-4c33-aeb9-15bc22f5cfd4/tfss-f176ea65-464a-494f-9698-429f04e57d6b-edible1.jpg"
+      },
+      "section": {
+        "__type": "Pointer",
+        "className": "Category",
+        "objectId": "vPPZJxgK4Y"
+      },
+      "category": "edibles",
+      "location": {
+        "__type": "GeoPoint",
+        "latitude": 33.8674443,
+        "longitude": -118.36382179999995
+      }
+    },
+    {
+      "objectId": "lnVTjdmk37",
+      "createdAt": "2016-01-07T11:00:03.606Z",
+      "updatedAt": "2016-01-10T09:48:11.359Z",
+      "image": {
+        "__type": "File",
+        "name": "tfss-366c12e3-27be-4c33-9306-23ed93781c57-edible2.jpg",
+        "url": "http://files.parsetfss.com/685fe89f-b24a-4c33-aeb9-15bc22f5cfd4/tfss-366c12e3-27be-4c33-9306-23ed93781c57-edible2.jpg"
+      },
+      "section": {
+        "__type": "Pointer",
+        "className": "Category",
+        "objectId": "vPPZJxgK4Y"
+      },
+      "name": "Cheeba Chews ",
+      "price": "12",
+      "description": "100mg blah",
+      "quantity": "one",
+      "imageThumb": {
+        "__type": "File",
+        "name": "tfss-d6299dfe-4056-4f89-bfed-4cc22be1a893-edible2.jpg",
+        "url": "http://files.parsetfss.com/685fe89f-b24a-4c33-aeb9-15bc22f5cfd4/tfss-d6299dfe-4056-4f89-bfed-4cc22be1a893-edible2.jpg"
+      },
+      "type": "Indica",
+      "category": "edibles",
+      "location": {
+        "__type": "GeoPoint",
+        "latitude": 33.8674443,
+        "longitude": -118.36382179999995
+      }
+    },
+    {
+      "objectId": "nFdBAsRRJq",
+      "createdAt": "2016-01-07T11:27:33.539Z",
+      "updatedAt": "2016-01-11T08:19:00.329Z",
+      "section": {
+        "__type": "Pointer",
+        "className": "Category",
+        "objectId": "084xSu8EW1"
+      },
+      "image": {
+        "__type": "File",
+        "name": "tfss-993cdcad-56c0-4c8c-a77c-5e1a46cea4c4-wax3.jpg",
+        "url": "http://files.parsetfss.com/685fe89f-b24a-4c33-aeb9-15bc22f5cfd4/tfss-993cdcad-56c0-4c8c-a77c-5e1a46cea4c4-wax3.jpg"
+      },
+      "imageThumb": {
+        "__type": "File",
+        "name": "tfss-b3b5136e-ac14-45c7-9d18-62e09d9b8ed7-wax3.jpg",
+        "url": "http://files.parsetfss.com/685fe89f-b24a-4c33-aeb9-15bc22f5cfd4/tfss-b3b5136e-ac14-45c7-9d18-62e09d9b8ed7-wax3.jpg"
+      },
+      "price": "55",
+      "quantity": "gram",
+      "name": "Alien OG",
+      "type": "Hybrid",
+      "description": "out of this world good!",
+      "category": "concentrates",
+      "location": {
+        "__type": "GeoPoint",
+        "latitude": 33.8674443,
+        "longitude": -118.36382179999995
+      },
+      "special": {
+        "__type": "Pointer",
+        "className": "Special",
+        "objectId": "WgPrPweoGk"
+      }
+    },
+    {
+      "objectId": "vPdEvB6QkT",
+      "createdAt": "2016-01-07T10:47:35.114Z",
+      "updatedAt": "2016-01-11T00:09:16.239Z",
+      "name": "Girl Scout Cookies",
+      "type": "Hybrid",
+      "price": "40",
+      "description": "The origins of Girl Scout Cookies are as hazy as you’ll feel after just a few hits. Some say it’s a cross between pure South African sativa Durban Poison and the west coast sativa-like hybrid OG Kush.",
+      "quantity": "eighth",
+      "taste": "",
+      "section": {
+        "__type": "Pointer",
+        "className": "Category",
+        "objectId": "7ic4fpUUee"
+      },
+      "image": {
+        "__type": "File",
+        "name": "tfss-6f7c348b-a19a-44d4-8bdc-6a41a33e86b2-kush3.jpg",
+        "url": "http://files.parsetfss.com/685fe89f-b24a-4c33-aeb9-15bc22f5cfd4/tfss-6f7c348b-a19a-44d4-8bdc-6a41a33e86b2-kush3.jpg"
+      },
+      "imageThumb": {
+        "__type": "File",
+        "name": "tfss-006ceb4f-5f1a-4285-9897-d5716513d9fe-kush3.jpg",
+        "url": "http://files.parsetfss.com/685fe89f-b24a-4c33-aeb9-15bc22f5cfd4/tfss-006ceb4f-5f1a-4285-9897-d5716513d9fe-kush3.jpg"
+      },
+      "category": "flowers",
+      "location": {
+        "__type": "GeoPoint",
+        "latitude": 33.8674443,
+        "longitude": -118.36382179999995
+      },
+      "amount": [
+        15,
+        45,
+        70,
+        130,
+        270
+      ]
+    },
+    {
+      "objectId": "ZeavgkR1q0",
+      "name": "Tarantula OG",
+      "updatedAt": "2016-02-03T13:52:42.412Z",
+      "createdAt": "2016-02-03T13:52:42.412Z"
+    },
+    {
+      "objectId": "wJaMSIx2NS",
+      "createdAt": "2016-01-07T11:27:40.940Z",
+      "updatedAt": "2016-01-10T09:47:26.920Z",
+      "section": {
+        "__type": "Pointer",
+        "className": "Category",
+        "objectId": "084xSu8EW1"
+      },
+      "image": {
+        "__type": "File",
+        "name": "tfss-0f9fa553-f0b6-4df4-bd09-adb86603be8a-wax4.JPG",
+        "url": "http://files.parsetfss.com/685fe89f-b24a-4c33-aeb9-15bc22f5cfd4/tfss-0f9fa553-f0b6-4df4-bd09-adb86603be8a-wax4.JPG"
+      },
+      "imageThumb": {
+        "__type": "File",
+        "name": "tfss-26719ab4-6d4a-46c6-8413-440161ef053c-wax4.JPG",
+        "url": "http://files.parsetfss.com/685fe89f-b24a-4c33-aeb9-15bc22f5cfd4/tfss-26719ab4-6d4a-46c6-8413-440161ef053c-wax4.JPG"
+      },
+      "name": "Alaskan Thunder Fuck",
+      "type": "Sativa",
+      "price": "45",
+      "quantity": "gram",
+      "description": "ATF still going strong",
+      "category": "concentrates",
+      "location": {
+        "__type": "GeoPoint",
+        "latitude": 33.8674443,
+        "longitude": -119.38222
+      }
+    }
+  ]
+}

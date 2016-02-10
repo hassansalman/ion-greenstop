@@ -1,0 +1,39 @@
+<ion-side-menus enable-menu-with-back-views="false">
+    <ion-side-menu-content drag-content="false">
+        <ion-nav-view name="menuAppContent" animation="slide-left-right"></ion-nav-view>
+    </ion-side-menu-content>
+
+    <ion-side-menu side="left">
+        <ion-content>
+            <div class="side-menu-logo">
+                <a class="logo">GreenStop</a>
+            </div>
+            <ion-list class="sidebar list-no-border">
+                <ion-item menu-close class="item-icon-left" ui-sref="app.category">
+                    <i class="icon ion-home"></i>
+                    Home
+                </ion-item>
+                <ion-item menu-close class="item-icon-left" ui-sref="product_menu">
+                    <i class="icon ion-clipboard"></i>
+                    Menu
+                </ion-item>
+                <ion-item menu-close class="item-icon-left" ui-sref="app.shopping_cart">
+                    <i class="icon ion-bag"></i>
+                    Shop
+                </ion-item>
+                <ion-item menu-close class="item-icon-left" ui-sref="app.profile">
+                    <i class="icon ion-person"></i>
+                    Profile
+                </ion-item>
+                <ion-item menu-close class="item-icon-left" ui-sref="intro">
+                    <i class="icon ion-reply"></i>
+                    Logout
+                </ion-item>
+            </ion-list>
+            <div class="text-center stable" ng-if="currentUser !== null">
+            You are logged in as: <b>{{currentUser}}</b>
+            <button type="button" class="button button-outline button-small button-light" ng-click="signout()">Sign Out</button>
+            </div>
+        </ion-content>
+    </ion-side-menu>
+</ion-side-menus>

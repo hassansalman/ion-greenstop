@@ -1,0 +1,56 @@
+<ion-modal-view style="background:none">
+  <ion-header-bar>
+    <div class="buttons">
+      <button class="button button-clear" ng-click="modal.hide()">
+        CLOSE
+      </button>
+    </div>
+    <h1 class="title">GreenStop</h1>
+  </ion-header-bar>
+  <ion-content class="light-bg">
+    <div class="list list-inset">
+     <form name="signUpForm">
+      <label class="item item-input">
+        <input type="text" name="firstName" placeholder="First Name" ng-model="signUpForm.firstName" required>
+      </label>
+      <label class="item item-input">
+        <input type="text" name="lastName" placeholder="Last Name"
+        ng-model="signUpForm.lastName" required>
+      </label>
+      <label class="item item-input">
+        <input type="text" name="email" placeholder="Email Address"
+        ng-model="signUpForm.email" autocapitalize="off" autocorrect="off" required>
+      </label>
+      <label class="item item-input">
+        <input type="password" name="password" placeholder="Password"
+        ng-model="signUpForm.password" autocapitalize="off" autocorrect="off" required>
+      </label>
+
+        <div class="list list-inset">        
+        <ion-checkbox class="checkbox-balanced"
+                      ng-repeat="offer in offers"
+                      ng-model="offer.checked"
+                      ng-checked="offer.checked">
+         <h4> {{ offer.title }} </h4>
+        </ion-checkbox>
+        </div> 
+
+        <div class="padding">
+        <p ng-show="signUpForm.email.$error.required">* Email is required</p>
+        <p ng-show="signUpForm.email.$invalid && !signUpForm.email.$pristine">* Email is invalid</p>
+        <p ng-show="signUpForm.email.$error.minlength">* Email must be longer than 5 characters</p>
+        <p ng-show="signUpForm.password.$error.required">* Password is required</p>
+        <p ng-show="signUpForm.password.$error.minlength">* Password must be longer than 6 characters</p>
+    </div>
+
+      <button class="button button-block button-block button-balanced" ng-click="onSignUp(signUpForm.$valid)" ng-disabled="signUpForm.$invalid">
+        Sign-Up
+      </button>
+      </form>
+    </div>
+  </ion-content>
+</ion-modal-view>
+
+
+
+

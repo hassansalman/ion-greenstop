@@ -1,0 +1,38 @@
+<ion-view view-title="{{cate.name}}">
+    <ion-header-bar align-title="center" class="bar-light">
+        <ion-nav-bar align-title="center">
+            <ion-nav-buttons>
+                <button class="button button-clear button-icon" ng-click="goBack()" ><i class="ion-chevron-left"></i></button>
+            </ion-nav-buttons>
+        </ion-nav-bar>
+    </ion-header-bar>
+    <ion-content>
+<!--             <div class="item-input-inset">
+      <label class="item-input-wrapper">
+        <input type="text" placeholder="New Product" ng-model="input.name">
+      </label>
+      <button class="button button-balanced button-small" ng-click="addProduct()">
+        Add Product
+      </button>
+    </div>
+    <ion-list can-swipe="true">
+      <ion-item ng-repeat="product in products" ng-click="productDetail({{product.id}})">
+        {{product.name}}
+        <ion-option-button class="button-balanced" ng-click="addToCart(product.id)">
+          <i class="icon ion-bag"></i>
+        </ion-option-button>
+      </ion-item>
+    </ion-list> -->
+        <div class="cate-lv2">
+            <div class="card cate-lv2-item" ng-repeat="product in products">
+                <div class="item item-thumbnail-left item-text-wrap" ui-sref="product_detail({ productId: product.id })">
+                    <img ng-src={{product.img}}>
+                    <h2>{{product.name}}</h2>
+                    <p>{{product.group}}</p>
+                    <div class="price">${{product.price}}/{{product.amount}}</div>
+                    <div class="like"><i class="ion-heart"></i> {{product.like}}</div>
+                </div>
+            </div>
+        </div>
+    </ion-content>
+</ion-view>
