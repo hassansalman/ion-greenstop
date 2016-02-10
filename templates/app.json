@@ -1,0 +1,7 @@
+{
+    "name": "Greenstop Hosted on Heroku",
+    "description": "Ion-Greenstop for Heroku",
+    "repository": "https://github.com/thelebanondon/ion-greenstop",
+    "logo": "http://pathToYourLogo.png",
+    "keywords": ["ionic", "greenstop", "heroku"]
+}
